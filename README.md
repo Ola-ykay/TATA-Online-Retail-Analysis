@@ -51,5 +51,5 @@ To provide actionable insights that help optimize revenue streams, improve marke
 
 ![Dashboard](https://github.com/Ola-ykay/TATA-Online-Retail-Analysis/blob/main/tata-dashboard1.png)
 
-![Dashboard](https://github.com/Ola-ykay/TATA-Online-Retail-Analysis/blob/main/tata-dashboard2.png)
+![Dashboard](https://github.com/Ola-ykay/TATA-Online-Retail-Analysis/blob/main/tata-dashboard-2.png)
 
